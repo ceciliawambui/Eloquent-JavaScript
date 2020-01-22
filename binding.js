@@ -1,0 +1,14 @@
+let ten = 10;
+console.log(ten * ten);
+let mood = "light";
+console.log(mood);
+mood = "dark";
+console.log(mood);
+let AnnDebt = 100;
+AnnDebt = AnnDebt - 50;
+console.log(AnnDebt);
+let one = 1, two= 2;
+console.log(one + two);
+var name = "Tasha";
+const greeting = "Hello ";
+console.log(greeting + name);
